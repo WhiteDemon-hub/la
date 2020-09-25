@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 vendor/
 node_modules/
@@ -9,4 +10,17 @@ storage/*.key
 .env.php
 .env
 Homestead.yaml
+=======
+node_modules
+vendor/
+node_modules/
+npm-debug.log
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+>>>>>>> d4b59183998a47b4faf633cc7bc693fb5858d6b6
 Homestead.json
